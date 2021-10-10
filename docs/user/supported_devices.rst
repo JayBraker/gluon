@@ -43,6 +43,7 @@ ath79-generic
 
 * OpenMesh
 
+  - A40
   - A60
 
 * Plasma Cloud
